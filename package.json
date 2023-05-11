@@ -1,0 +1,11 @@
+{
+  "name": "pipe-random-stg-msg",
+  "version": "1.0.0",
+  "description": "Creacion de paquete para npm pipe-random-stg-msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe molano",
+  "license": "ISC"
+}
